@@ -1,0 +1,32 @@
+{
+  "baseline_commit": "d751e5732c3fa957d2ae416e64119651037def35",
+  "file_sha256": {
+    "train_Dataset.csv": "b43e5f175607659d46d80912c23054e6f4e105eaad1858346bb337a7fd2d023d",
+    "test_Dataset.csv": "d4df19d82421755fec5c701bf6e543982fea198e7d55870a46b7f5c78afc240c",
+    "INPUT-APTAMER-PROTEIN-PAIRS.xls": "11e93c42d1f5b1c2d0496e62c3e43969e6a30aa1a828afecbe5504e4ee44e32d"
+  },
+  "train_shape": [
+    2724,
+    641
+  ],
+  "test_shape": [
+    680,
+    641
+  ],
+  "raw_sequence_rows": 2900,
+  "eligible_unambiguous_raw_rows": 2868,
+  "rejected_raw_rows": 32,
+  "exact_aptamer_matches": 1958,
+  "distinct_matched_aptamer_vectors": 479,
+  "aptamer_match_scope": "any released aptamer vector; NOT a verified pair/label mapping",
+  "full_640_sequence_reproduction_verified": false,
+  "upstream_comparison": {
+    "sha256": "6bef588bbfdc03fd26f9e1a1855cb63f1d8f0b1b046af30f9e1c87df6aa0e7fe",
+    "shape": [
+      3404,
+      641
+    ],
+    "train_rows_absent_from_upstream": 0,
+    "test_rows_absent_from_upstream": 0
+  }
+}

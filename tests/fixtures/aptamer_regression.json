@@ -1,0 +1,38 @@
+[
+  {
+    "raw_xls_dataframe_row_0based": 1,
+    "aptamer_seq": "CGGGGTGTTGTCCTGTGCTCTCCGGAGAGCACAGGACAACACCCCG",
+    "feature_table": "train_Dataset.csv",
+    "feature_row_0based": 271
+  },
+  {
+    "raw_xls_dataframe_row_0based": 2,
+    "aptamer_seq": "GCTGCAGTTGCACTGAATTCGCCTCTCGCCTCCGTACACTTAGTCGACAGGATCCGCTGAACTGACCTG",
+    "feature_table": "train_Dataset.csv",
+    "feature_row_0based": 272
+  },
+  {
+    "raw_xls_dataframe_row_0based": 4,
+    "aptamer_seq": "UCUCUGGGCUCUUAGGAGAACGGAUAGGAGUGUGCUCGCU",
+    "feature_table": "train_Dataset.csv",
+    "feature_row_0based": 274
+  },
+  {
+    "raw_xls_dataframe_row_0based": 17,
+    "aptamer_seq": "AGACCUUAUACCUGAGAUUACACGCUCUUCGAGCACGUCGAC",
+    "feature_table": "test_Dataset.csv",
+    "feature_row_0based": 664
+  },
+  {
+    "raw_xls_dataframe_row_0based": 18,
+    "aptamer_seq": "TCCCACGCATTCTCCACATCGAGGAGTATCGGGGCACGATCCTATTTAAGGCCGATAACCCCTTTCTGTCCTTCCGTCAC",
+    "feature_table": "test_Dataset.csv",
+    "feature_row_0based": 665
+  },
+  {
+    "raw_xls_dataframe_row_0based": 19,
+    "aptamer_seq": "GCGUGCAGUGCCUUCGGCCGTGCGGTGCCUCCGUCACGCT",
+    "feature_table": "test_Dataset.csv",
+    "feature_row_0based": 668
+  }
+]
